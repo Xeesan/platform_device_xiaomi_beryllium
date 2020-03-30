@@ -1,5 +1,9 @@
 # Camera
 persist.vendor.camera.perfcapture=1
 
+<<<<<<< HEAD
 # Recovery
 ro.recovery.ui.margin_height=87
+=======
+# Face Unlock
+ro.face.moto_unlock_service.cam_id=5
